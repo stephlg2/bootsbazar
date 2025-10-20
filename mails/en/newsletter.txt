@@ -1,0 +1,16 @@
+ 
+
+{shop_url}
+
+Hi {firstname} {lastname},
+
+{message}
+
+Service client +33(0)2 52 65 02 13
+
+Besoin daide ? [Consultez notre FAQ](https://www.jeanbaptisterautureau.fr/fr/content/5-questions-frequentes)
+
+Votre compte [Accédez à votre compte](https://www.jeanbaptisterautureau.fr/fr/mon-compte)
+
+[www.armistice.fr]({shop_url})
+

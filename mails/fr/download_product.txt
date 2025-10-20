@@ -1,0 +1,25 @@
+ 
+
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+Merci pour votre commande ayant pour référence {order_name} sur {shop_name}
+
+Produit(s) à télécharger
+
+Vous avez {nbProducts} produit(s) à télécharger à l'aide du/des lien(s) suivant(s) :
+
+{virtualProductsTxt}
+
+Suivez votre commande et téléchargez votre facture sur notre site, rendez-vous dans la section [Historique et détails de mes commandes]({history_url}) de votre compte client.
+
+Si vous avez un compte invité, vous pouvez suivre votre commande via la section [Suivi de commande]({guest_tracking_url}) sur notre boutique.
+
+
+Besoin daide ? [Consultez notre FAQ](https://www.armistice.fr/fr/content/5-questions-frequentes)
+
+Votre compte [Accédez à votre compte](https://www.armistice.fr/fr/mon-compte)
+
+[www.armistice.fr]({shop_url})
+

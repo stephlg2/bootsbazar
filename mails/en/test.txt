@@ -1,0 +1,14 @@
+ 
+
+{shop_url}
+
+Hi {firstname} {lastname},
+
+Here is a test email from your shop.
+
+If you can read this, it means the test is successful!
+
+
+[www.armistice.fr]({shop_url})
+
+

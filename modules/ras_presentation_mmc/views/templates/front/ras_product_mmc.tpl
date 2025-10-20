@@ -1,0 +1,18 @@
+<div id="ras_presentation_mmc">
+    <div id="ras_presentation_mmc_list">
+        {foreach from=$products key=$i item=product}
+            <div class="ras_presentation_mmc_link {if $number > 0 && $number <= $i }hide-mmc{/if} {if $product['id_product'] == $id_product_current }select-active-mmc{/if}" >
+                {if $product['id_product'] != $id_product_current }<a href="{$product['url']}">{else}<div>{/if}
+                    <img title="{$product['name']}" src="{$product['image']}"
+                         alt="{l s='Other image of' mod='ras_presentation_mmc'} {$product.name|escape:'htmlall':'UTF-8'}">
+                {if $product['id_product'] != $id_product_current }</a>{else}</div>{/if}
+
+            </div>
+        {/foreach}
+        {if $number > 0 && $number <= $i}
+            <div class="ras_presentation_mmc_link more-mmc">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Pro 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2024 Fonticons, Inc.--><path d="M240 64c0-8.8-7.2-16-16-16s-16 7.2-16 16l0 176L32 240c-8.8 0-16 7.2-16 16s7.2 16 16 16l176 0 0 176c0 8.8 7.2 16 16 16s16-7.2 16-16l0-176 176 0c8.8 0 16-7.2 16-16s-7.2-16-16-16l-176 0 0-176z"/></svg>
+            </div>
+        {/if}
+    </div>
+</div>

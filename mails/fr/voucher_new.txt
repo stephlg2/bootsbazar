@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+Le bon de réduction a été généré
+
+Voici votre nouveau bon de réduction : {voucher_num}
+
+Pour en bénéficier, copier/coller ce code lors de l'achat.
+
+
+Besoin daide ? [Consultez notre FAQ](https://www.armistice.fr/fr/content/5-questions-frequentes)
+
+Votre compte [Accédez à votre compte](https://www.armistice.fr/fr/mon-compte)
+
+[www.armistice.fr]({shop_url})
+

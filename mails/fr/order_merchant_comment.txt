@@ -1,0 +1,21 @@
+ 
+
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+Message de {shop_name}
+
+Vous avez reçu un nouveau message depuis {shop_name} concernant la commande ayant pour référence {order_name}.
+
+Message :
+
+{message}
+
+
+Besoin daide ? [Consultez notre FAQ](https://www.armistice.fr/fr/content/5-questions-frequentes)
+
+Votre compte [Accédez à votre compte](https://www.armistice.fr/fr/mon-compte)
+
+[www.armistice.fr]({shop_url})
+

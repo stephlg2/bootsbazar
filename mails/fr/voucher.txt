@@ -1,0 +1,23 @@
+ 
+
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+Bon de réduction généré
+Identifiant de commande {order_name}
+
+Nous avons le plaisir de vous informer qu'un bon de réduction a été généré à votre nom relatif à votre commande ayant pour référence {order_name}.
+
+BON DE REDUCTION : {voucher_num} d'un montant de {voucher_amount}
+
+Pour en bénéficier, copier/coller ce code lors de l'achat.
+
+Service client 02 52 65 02 12
+
+Besoin daide ? [Consultez notre FAQ](https://www.armistice.fr/fr/content/5-questions-frequentes)
+
+Votre compte [Accédez à votre compte](https://www.armistice.fr/fr/mon-compte)
+
+[www.armistice.fr]({shop_url})
+

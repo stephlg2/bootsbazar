@@ -1,0 +1,20 @@
+ 
+
+{shop_url}
+
+Message from a {shop_name} customer
+
+Customer Email Address: {email}
+
+Order ID #:  {order_name}
+
+Attached file: {attached_file}
+
+Customer message:
+
+{message}
+
+
+[www.armistice.fr]({shop_url})
+
+

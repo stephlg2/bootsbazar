@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Hi {firstname} {lastname},
+
+Customer Service - Discussion Forwarded
+
+{employee} wanted to forward this discussion to you.
+
+Discussion history: {messages}
+
+{employee} added {comment}
+
+
+
+[www.armistice.fr]({shop_url})
+
+

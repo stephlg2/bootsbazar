@@ -1,0 +1,23 @@
+ 
+
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+Votre message a bien été envoyé, merci d'avoir pris le temps de nous écrire !
+
+ID commande # :  {order_name}
+
+Produit :  {product_name}
+
+Pièce jointe : {attached_file}
+
+Nous vous répondrons dans les meilleurs délais.
+
+
+Besoin daide ? [Consultez notre FAQ](https://www.armistice.fr/fr/content/5-questions-frequentes)
+
+Votre compte [Accédez à votre compte](https://www.armistice.fr/fr/mon-compte)
+
+[www.armistice.fr]({shop_url})
+

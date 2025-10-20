@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Bonjour,
+
+Nouveau message d'alerte enregistré
+
+ATTENTION : vous avez reçu un nouveau message d'alerte dans votre back office.
+
+Vous pouvez le consulter dans la section Paramètres Avancés > Logs de votre back office.
+
+
+Besoin daide ? [Consultez notre FAQ](https://www.armistice.fr/fr/content/5-questions-frequentes)
+
+Votre compte [Accédez à votre compte](https://www.armistice.fr/fr/mon-compte)
+
+[www.armistice.fr]({shop_url})
+

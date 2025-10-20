@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Hi {firstname} {lastname},
+
+Voucher code generated
+Order ID {order_name}
+
+We are pleased to inform you that a voucher has been generated in your name for order with the reference {order_name}.
+
+VOUCHER CODE: {voucher_num} in the amount of {voucher_amount}
+
+In order to use it, just copy/paste this code during check out.
+
+
+
+[www.armistice.fr]({shop_url})
+

@@ -1,0 +1,16 @@
+ 
+
+{shop_url}
+
+Hi,
+
+New alert message saved
+
+WARNING: you have received a new log alert in your back office.
+
+You can check for it in the Advanced Parameters > Logs section of your back office.
+
+
+
+[www.armistice.fr]({shop_url})
+

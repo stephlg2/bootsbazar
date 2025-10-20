@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+Import terminé
+
+Le fichier {filename} a bien été importé dans votre boutique.
+
+
+Besoin daide ? [Consultez notre FAQ](https://www.armistice.fr/fr/content/5-questions-frequentes)
+
+Votre compte [Accédez à votre compte](https://www.armistice.fr/fr/mon-compte)
+
+[www.armistice.fr]({shop_url})
+

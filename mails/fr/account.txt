@@ -1,0 +1,35 @@
+ 
+
+{shop_url}
+dsfdsfdsf
+
+Bonjour {firstname} {lastname},
+
+Merci d'avoir créé votre compte client sur {shop_name}.
+
+Vos identifiants de connexion sur {shop_name}
+
+Vos codes d'accès :
+
+Adresse e-mail : {email}
+
+Conseils de sécurité importants :
+
+1. Vos informations de compte doivent rester confidentielles.
+
+2. Ne les communiquez jamais à qui que ce soit.
+
+3. Changez votre mot de passe régulièrement.
+
+4. Si vous pensez que quelqu'un utilise votre compte illégalement, veuillez nous prévenir immédiatement.
+
+Vous pouvez dès à présent passer commande sur notre boutique : [{shop_name}]({shop_url})
+
+Service client 02 52 65 02 12
+
+Besoin daide ? [Consultez notre FAQ](https://www.armistice.fr/fr/content/5-questions-frequentes)
+
+Votre compte [Accédez à votre compte](https://www.armistice.fr/fr/mon-compte)
+
+[www.armistice.fr]({shop_url})
+
