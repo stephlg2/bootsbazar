@@ -1,0 +1,50 @@
+ 
+
+{shop_url}
+
+Hi {firstname} {lastname},
+
+THANK YOU FOR YOUR PURCHASE ON ARMISTICE!
+We are pleased to inform you that your order {order_name} has been received and is currently being processed.
+
+As soon as your package is picked up by the carrier, we will send you an email containing the tracking number so that you can track your order.
+
+Order details
+
+Order: {order_name} Placed on {date}
+
+Payment: {payment}
+
+Reference	Product	Unit price	Quantity	Total price  {products_txt} {discounts_txt}
+Products	{total_products}
+Discounts	{total_discounts}
+Gift-wrapping	{total_wrapping}
+Shipping	{total_shipping}
+Including total tax	{total_tax_paid}
+Total paid	{total_paid}
+
+Shipping
+
+Carrier: {carrier}
+
+Payment: {payment}
+
+Recycled packaging: {recycled_packaging_label}
+
+Delivery address
+
+{delivery_block_txt}
+
+Billing address
+
+{invoice_block_txt}
+
+Follow your order and download your invoice on our shop, go to the [Order history and details]({history_url}) section of your customer account.
+
+If you have a guest account, you can follow your order via the [Guest Tracking]({guest_tracking_url}) section on our shop.
+
+
+
+[www.armistice.fr]({shop_url})
+
+

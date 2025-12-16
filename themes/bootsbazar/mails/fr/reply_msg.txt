@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+{reply}
+
+Veuillez ne pas répondre directement à ce message, nous ne recevrons pas votre réponse. Pour répondre, cliquer sur le lien suivant : {link}
+
+
+Besoin daide ? [Consultez notre FAQ](https://www.jeanbaptisterautureau.fr/fr/content/5-questions-frequentes)
+
+Votre compte [Accédez à votre compte](https://www.jeanbaptisterautureau.fr/fr/mon-compte)
+
+[www.jeanbaptisterautureau.fr]({shop_url})
+

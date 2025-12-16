@@ -1,0 +1,21 @@
+ 
+
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+SAV - Discussion transférée
+
+{employee} souhaiterait vous transférer cette discussion.
+
+Historique de la discussion : {messages}
+
+{employee} a ajouté {comment}
+
+
+Besoin daide ? [Consultez notre FAQ](https://www.armistice.fr/fr/content/5-questions-frequentes)
+
+Votre compte [Accédez à votre compte](https://www.armistice.fr/fr/mon-compte)
+
+[www.armistice.fr]({shop_url})
+

@@ -1,0 +1,64 @@
+English version below 
+Versión en Español debajo 
+
+https://www.diatly.com 
+
+Chère marque, 
+
+Notre module a détecté que {totfailedorder} commande(s) nétaient pas correctement intégrées dans votre site Web. 
+
+Veuillez trouvez plus dinformation dans votre module Diatly. 
+
+  
+
+ 
+** À BIENTÔT !
+------------------------------------------------------------
+
+ Léquipe Diatly 
+diatly.com (https://www.diatly.com/) 
+
+Ne répondez pas à cet email, votre réponse ne serait pas traitée. 
+Pour toute question vous pouvez accéder votre centre d’aide Zendesk (http://support.diatly.com/) . 
+------------------------------------------------------------
+
+English 
+
+Dear brand, 
+
+Our module has detected that {totfailedorder} order(s) were not properly integrated on your website in the past two days. 
+
+Please check your Diatly module for further information. 
+
+  
+
+ 
+** BEST REGARDS,
+------------------------------------------------------------
+
+ The Diatly team 
+diatly.com (https://www.diatly.com/) 
+
+Do not reply to this email 
+For further information, please refer to our Help Guide or contact us Zendesk (http://support.diatly.com/) . 
+------------------------------------------------------------
+
+Español
+
+Querida marca, 
+
+Nuestro módulo ha detectado que {totfailedorder} pedido(s) no se han integrado correctamente en su sitio web en los últimos dos días. 
+
+Por favor revise su módulo Diatly para más información. 
+
+  
+
+ 
+** SALUDOS,
+------------------------------------------------------------
+
+ El equipo Diatly 
+diatly.com (https://www.diatly.com/) 
+
+No responda a este email, su respuesta no será tratada. 
+Para cualquier pregunta, puede acceder al centro de ayuda Zendesk (http://support.diatly.com/) . 
